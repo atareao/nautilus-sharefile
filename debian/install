@@ -1,0 +1,2 @@
+src/nautilus-sharefile.py /usr/share/nautilus-python/extensions
+src/sharefile /usr/share/nautilus-python/extensions
