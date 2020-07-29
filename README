@@ -1,18 +1,36 @@
-Nautilus-ShareFtp
+Nautilus-Sharefile
 =================
 
-Nautilus-ShareFtp
+Nautilus-Sharefile
 
 Download
 --------
 
 Download the [package][dlp] *or* checkout the source:
 
-    $ git clone https://github.com/atareao/nautilus-shareftp.git
+    $ git clone https://github.com/atareao/nautilus-sharefile.git
 
 Installation
 ------------
 
-    $ sudo add-apt-repositoy ppa:atareao/nautilus-extensions
-    $ sudo apt-get update
-    $ sudo apt-get install nautilus-shareftp
+* Nautilus
+
+```
+sudo add-apt-repositoy ppa:atareao/nautilus-extensions
+sudo apt-get update
+sudo apt-get install nautilus-sharefile
+
+* Nemo
+
+```
+sudo add-apt-repositoy ppa:atareao/nemo-extensions
+sudo apt-get update
+sudo apt-get install nemo-sharefile
+
+* Caja
+
+```
+sudo add-apt-repositoy ppa:atareao/caja-extensions
+sudo apt-get update
+sudo apt-get install caja-sharefile
+```
